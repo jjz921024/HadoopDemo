@@ -20,6 +20,7 @@ public class FileCopyWithProgress {
     public static void main(String[] args) throws Exception {
         String localSrc = args[0];
         String dst = args[1];
+        String dd = null;
         InputStream in = new BufferedInputStream(new FileInputStream(localSrc));
 
         Configuration conf = new Configuration();
