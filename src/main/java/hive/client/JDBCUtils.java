@@ -1,4 +1,4 @@
-package client;
+package hive.client;
 
 import java.sql.*;
 

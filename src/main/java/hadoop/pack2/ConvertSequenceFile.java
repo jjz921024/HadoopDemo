@@ -1,7 +1,7 @@
 package hadoop.pack2;
 
 import hadoop.common.JobBuilder;
-import hadoop.common.NcdcRecordParser;
+import hadoop.pack1.NcdcRecordParser;
 import org.apache.hadoop.conf.Configured;
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.LongWritable;

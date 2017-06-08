@@ -1,4 +1,4 @@
-package hadoop.common;
+package hadoop.pack1;
 
 import java.text.*;
 import java.util.Date;
